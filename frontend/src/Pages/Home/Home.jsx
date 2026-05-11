@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            Pragathi
+            Pragathi's App
           </Title>
 
           <Text
